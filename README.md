@@ -1,3 +1,4 @@
+<img src="./assets/cover.png" alt="cover image"/>
 ### Hi there 👋
 
 <!--
